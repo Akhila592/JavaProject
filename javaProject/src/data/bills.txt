@@ -1,0 +1,34 @@
+----- BILL -----
+Veg Burger x1
+Total: ₹100.0
+
+----- BILL -----
+Veg Burger x3
+Total: ₹300.0
+
+----- BILL -----
+Paneer Butter Masala x6
+Total: ₹1080.0
+
+----- BILL -----
+Veg Burger x10
+Chicken Biryani x1
+Total: ₹1250.0
+
+----- BILL -----
+Chicken Biryani x2
+Total: ₹500.0
+
+----- BILL -----
+Veg Burger x6
+Chicken Biryani x2
+Total: ₹1100.0
+
+----- BILL -----
+Chicken Biryani x2
+Total: ₹500.0
+
+----- BILL -----
+Chicken Biryani x2
+Total: ₹500.0
+
